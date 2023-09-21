@@ -1,0 +1,11 @@
+NOM        |====| PRENOM      |====| SOLDE          
+JACK|====|HALMES|====|900
+
+AHMED|====|BAJADDA|====|1000
+
+YASSER|====|JERAF|====|10000
+
+OUSSAMA|====|MAZOUZ|====|1100
+
+ahmed|====|bajada|====|0
+

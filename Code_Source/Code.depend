@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1683829068 source:c:\users\pc\desktop\sig_cours\s2\c++\c++_projet\code\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<windows.h>
+	<vector>
+
+1683839101 source:c:\users\pc\downloads\bajjeda\bajjeda\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+
+1683841352 source:c:\users\pc\downloads\code\bajjeda\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+
+1683841352 source:c:\users\pc\desktop\code_source\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+
+1683887719 source:c:\users\pc\desktop\v7_projt_2023\code_source\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+
+1683901590 source:c:\users\pc\desktop\sig_cours\v7_projt_2023 - ahmed\code_source\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	<conio.h>
+
+1684096562 source:c:\users\pc\desktop\sig_cours\s2\c++\c++_projet\v7_projt_2023 - ahmed\code_source\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	<conio.h>
+
