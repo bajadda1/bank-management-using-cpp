@@ -30,4 +30,11 @@ Welcome to our Bank Management System implemented in C++ using Object-Oriented P
 
 ## Getting Started
 
-1. Clone the repository to your local machine using Git.
+1. Clone the repository to your local machine using Git. git clone https://github.com/bajadda1/bank-management-using-cpp.git
+2. Navigate to the project directory. cd bank-management
+3. Compile the source code using your preferred C++ compiler. g++ main.cpp -o bank_management
+4. Run the compiled executable to start the Bank Management System.
+
+
+
+   
